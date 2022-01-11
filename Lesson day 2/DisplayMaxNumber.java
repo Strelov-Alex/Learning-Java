@@ -5,7 +5,7 @@ public class DisplayMaxNumber {
         var a = 15;
         var b = 20;
 
-        var result = a > b ? "a" : "b";
+        var result = a > b ? a : b;
 
         System.out.println(result);
     }
