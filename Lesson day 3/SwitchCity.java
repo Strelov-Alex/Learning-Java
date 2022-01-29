@@ -4,7 +4,7 @@ public class SwitchCity {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        whil (true) {
+        while (true) {
             System.out.println("Enter the name of the city: ");
             String city = new Scanner(System.in).nextLine();
 
