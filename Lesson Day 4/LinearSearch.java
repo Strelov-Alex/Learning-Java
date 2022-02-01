@@ -5,7 +5,7 @@ public class LinearSearch {
         int[] array = {2, 6, 8, 12, 7, 9, 11, 16};
         int query = 16;
 
-        int inde = -1;
+        int index = -1;
 
         for (int i = 0; i < array.length; i++) {
             if (array[i] == query) {
